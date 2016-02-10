@@ -51,3 +51,4 @@ This can lead in a loss of C# best practices. We consider the time savings an ac
 
 ## I've added...
 My problem was to add on a site some fake statistics for a range of date. 
+More detail on [PureSourceCode blog](http://puresourcecode.com)
